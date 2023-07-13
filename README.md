@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joshua-Jato
+- 👋 Hi, I’m @JoshuaJato
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on ...
